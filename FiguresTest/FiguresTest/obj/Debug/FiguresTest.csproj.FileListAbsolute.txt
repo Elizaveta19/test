@@ -1,0 +1,9 @@
+D:\VS\FiguresTest\FiguresTest\bin\Debug\FiguresTest.exe.config
+D:\VS\FiguresTest\FiguresTest\bin\Debug\FiguresTest.exe
+D:\VS\FiguresTest\FiguresTest\bin\Debug\FiguresTest.pdb
+D:\VS\FiguresTest\FiguresTest\obj\Debug\FiguresTest.csprojAssemblyReference.cache
+D:\VS\FiguresTest\FiguresTest\obj\Debug\FiguresTest.Properties.Resources.resources
+D:\VS\FiguresTest\FiguresTest\obj\Debug\FiguresTest.csproj.GenerateResource.cache
+D:\VS\FiguresTest\FiguresTest\obj\Debug\FiguresTest.csproj.CoreCompileInputs.cache
+D:\VS\FiguresTest\FiguresTest\obj\Debug\FiguresTest.exe
+D:\VS\FiguresTest\FiguresTest\obj\Debug\FiguresTest.pdb
